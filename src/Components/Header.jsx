@@ -27,8 +27,8 @@ export default function Header (props) {
         <header>
         <div className = "Logo">Shop
         <ul className = "nav">
-            <li><a href="https://margulan2005.github.io/Newpr/">About Us</a></li>
-            <li><a href="https://margulan.streamlit.app/">Contacts</a></li>
+            <li><a href="http://127.0.0.1:5500/index.html#">About Us</a></li>
+            <li><a href="https://kanat.streamlit.app/">Contacts</a></li>
             <li><a href="https://www.arizona.edu/">Office</a></li>
             <li><FaShoppingCart onClick={()=>setCartOpen(cartOpen = !cartOpen)} className={`shopcart ${cartOpen && 'active'}`}/></li>
         </ul>

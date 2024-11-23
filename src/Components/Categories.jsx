@@ -6,20 +6,20 @@ export class Categories extends React.Component {
         this.state = {
             categories: [
                 {
-                    key: "Shoes",
-                    name: "Shoes"
+                    key: "Phone",
+                    name: "Phone"
                 },
                 {
-                    key: "Real Madrid",
-                    name: "Real Madrid"
+                    key: "Notebook",
+                    name: "Notebook"
                 },
                 {
-                    key: "Hoodie",
-                    name: "Hoodie"
+                    key: "Watch",
+                    name: "Watch"
                 },
                 {
-                    key: "Shorts",
-                    name: "Shorts"
+                    key: "Headphone",
+                    name: "Headphone"
                 },
                 {
                     key: "All",

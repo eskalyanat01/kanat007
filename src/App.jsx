@@ -14,87 +14,87 @@ class App extends Component {
       items: [
         {
           id: 1,
-          title: 'Samba OG',
-          image: "./img/sambaogshoes.jpg",
+          title: 'Iphone 12 mini',
+          image: "./img/12mini.jpg",
           desc: "-----",
-          category: "Shoes",
-          price: "100"
+          category: "Phone",
+          price: "450"
         },
         {
           id: 2,
-          title: 'Real Madrid',
-          image: "./img/realmadrid.jpg",
+          title: 'Iphone xr',
+          image: "./img/xr.webp",
           desc: "-----",
-          category: "Real Madrid",
-          price: "150"
+          category: "Phone",
+          price: "300"
         },
         {
           id: 3,
-          title: 'Shorts',
-          image: "./img/shorts.jpg",
+          title: 'Mac 13 air',
+          image: "./img/mac.jpg",
           desc: "-----",
-          category: "Shorts",
-          price: "25"
+          category: "Notebook",
+          price: "1000"
         },
         {
           id: 4,
-          title: 'Pants',
-          image: "./img/pants.jpg",
+          title: 'Ipad pro 11',
+          image: "./img/ipad.jpeg",
           desc: "-----",
-          category: "Pants",
-          price: "80"
+          category: "Ipad",
+          price: "800"
         },
         {
           id: 5,
-          title: 'Fleece',
-          image: "./img/fleece.jpg",
+          title: 'Magsafe PowerBank',
+          image: "./img/mag.webp",
           desc: "-----",
-          category: "Fleece",
-          price: "85"
+          category: "Powerbank",
+          price: "150"
         },
         {
           id: 6,
-          title: 'Hoodie',
-          image: "./img/hoodie.jpg",
+          title: 'Apple watch series 10',
+          image: "./img/watch.webp",
           desc: "-----",
-          category: "Hoodie",
-          price: "135"
+          category: "Watch",
+          price: "1350"
         },
 
         {
           id: 7,
-          title: 'Spezial',
-          image: "./img/spezial.jpg",
+          title: 'Adapter',
+          image: "./img/adapter.jpg",
           desc: "-----",
-          category: "Shoes",
-          price: "110"
+          category: "Adapter",
+          price: "70"
         },
 
         {
           id: 8,
-          title: 'Blue Shorts',
-          image: "./img/blueshorts.jpg",
+          title: 'Airpods Pro',
+          image: "./img/pods.jpg",
           desc: "-----",
-          category: "Shorts",
-          price: "23"
+          category: "Headphone",
+          price: "230"
         },
 
         {
           id: 9,
-          title: 'Red Hoodie',
-          image: "./img/redhoodie.jpg",
+          title: 'Apple watch SE',
+          image: "./img/watchh.jpg",
           desc: "-----",
-          category: "Hoodie",
-          price: "95"
+          category: "Watch",
+          price: "950"
         },
 
         {
           id: 10,
-          title: 'RMA Shorts',
-          image: "./img/rmashorts.jpg",
+          title: 'Mac air 15',
+          image: "./img/macc.jpg",
           desc: "-----",
-          category: "Real Madrid",
-          price: "60"
+          category: "Notebook",
+          price: "1200"
         },
       ]
     };
